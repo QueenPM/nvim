@@ -28,3 +28,5 @@ sudo apt install 7zip
 echo "Install lazygit"
 
 sudo apt install lazygit
+
+# TODO install lazygit theme, move it to the config location
