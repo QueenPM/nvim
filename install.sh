@@ -30,3 +30,4 @@ echo "Install lazygit"
 sudo apt install lazygit
 
 # TODO install lazygit theme, move it to the config location
+# lazygit --use-config-file="<config-dir>/config.yml,<your-theme>.yml"
